@@ -3,18 +3,6 @@
 		{
 			"code": "PS-1647",
 			"description": "Hotel list"
-		},
-		{
-			"code": "PS-1598",
-			"description": "New Flash sale"
-		},
-		{
-			"code": "PS-1564",
-			"description": "New home"
-		},
-		{
-			"code": "PS-997",
-			"description": "Server for new api"
 		}
 	]
 }
