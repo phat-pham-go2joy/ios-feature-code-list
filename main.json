@@ -3,6 +3,10 @@
 		{
 			"code": "PS-1647",
 			"description": "Hotel list"
+		},
+		{
+			"code": "PS-997",
+			"description": "New API"
 		}
 	]
 }
