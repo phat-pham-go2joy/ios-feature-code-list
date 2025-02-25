@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1668",
+			"description": "Personalize"
+		},
+		{
 			"code": "PS-1647",
 			"description": "Hotel list"
 		},
