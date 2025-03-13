@@ -1,12 +1,12 @@
 {
 	"result": [
 		{
-			"code": "PS-1668",
-			"description": "Personalize"
+			"code": "PS-1685",
+			"description": "Cancel policy"
 		},
 		{
-			"code": "PS-1647",
-			"description": "Hotel list"
+			"code": "PS-1668",
+			"description": "Personalize"
 		},
 		{
 			"code": "PS-997",
