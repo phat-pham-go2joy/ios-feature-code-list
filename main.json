@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1682",
+			"description": "Cancel policy v2"
+		},
+		{
 			"code": "PS-1685",
 			"description": "Cancel policy"
 		},
