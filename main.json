@@ -1,28 +1,12 @@
 {
 	"result": [
 		{
+			"code": "PS-1727",
+			"description": "New Sign in/up"
+		},
+		{
 			"code": "PS-1708",
 			"description": "Improve noshow confirmation"
-		},
-		{
-			"code": "PS-1701",
-			"description": "Amplitude for hotel listing"
-		},
-		{
-			"code": "PS-1700",
-			"description": "Personalize"
-		},
-		{
-			"code": "PS-1682",
-			"description": "Cancel policy v2"
-		},
-		{
-			"code": "PS-1685",
-			"description": "Cancel policy"
-		},
-		{
-			"code": "PS-997",
-			"description": "New API"
 		}
 	]
 }
