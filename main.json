@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1739",
+			"description": "Room pricing"
+		},
+		{
 			"code": "PS-1727",
 			"description": "New Sign in/up"
 		},
