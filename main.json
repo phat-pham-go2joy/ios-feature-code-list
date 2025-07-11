@@ -5,6 +5,10 @@
 			"description": "Hotel similar (hotel detail)"
 		},
 		{
+			"code": "SS-1613",
+			"description": "Booking Tax"
+		},
+		{
 			"code": "PS-1750",
 			"description": "Sign in with bio"
 		},
