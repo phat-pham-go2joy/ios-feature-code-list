@@ -1,20 +1,16 @@
 {
 	"result": [
 		{
+			"code": "PS-1774",
+			"description": "Hotel similar (hotel detail)"
+		},
+		{
 			"code": "PS-1750",
 			"description": "Sign in with bio"
 		},
 		{
 			"code": "PS-1739",
 			"description": "Room pricing"
-		},
-		{
-			"code": "PS-1727",
-			"description": "New Sign in/up"
-		},
-		{
-			"code": "PS-1708",
-			"description": "Improve noshow confirmation"
 		}
 	]
 }
