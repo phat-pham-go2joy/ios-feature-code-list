@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1786",
+			"description": "Filter hotel listing"
+		},
+		{
 			"code": "PS-1774",
 			"description": "Hotel similar (hotel detail)"
 		},
