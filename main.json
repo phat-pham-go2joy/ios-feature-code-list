@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1773",
+			"description": "Review API"
+		},
+		{
 			"code": "PS-1786",
 			"description": "Filter hotel listing"
 		},
@@ -11,14 +15,6 @@
 		{
 			"code": "SS-1613",
 			"description": "Booking Tax"
-		},
-		{
-			"code": "PS-1750",
-			"description": "Sign in with bio"
-		},
-		{
-			"code": "PS-1739",
-			"description": "Room pricing"
 		}
 	]
 }
