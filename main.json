@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1813",
+			"description": "Update my coupon logic"
+		},
+		{
 			"code": "PS-1811",
 			"description": "Update mobile device function"
 		},
