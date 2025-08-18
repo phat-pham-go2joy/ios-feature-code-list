@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1820",
+			"description": "Update notification"
+		},
+		{
 			"code": "PS-1813",
 			"description": "Update my coupon logic"
 		},
