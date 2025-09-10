@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1832",
+			"description": "New for you"
+		},
+		{
 			"code": "PS-1820",
 			"description": "Update notification"
 		},
@@ -11,30 +15,6 @@
 		{
 			"code": "PS-1811",
 			"description": "Update mobile device function"
-		},
-		{
-			"code": "PS-1808",
-			"description": "Rename tagline"
-		},
-		{
-			"code": "PS-1803",
-			"description": "Update cancellation policy"
-		},
-		{
-			"code": "PS-1773",
-			"description": "Review API"
-		},
-		{
-			"code": "PS-1786",
-			"description": "Filter hotel listing"
-		},
-		{
-			"code": "PS-1774",
-			"description": "Hotel similar (hotel detail)"
-		},
-		{
-			"code": "SS-1613",
-			"description": "Booking Tax"
 		}
 	]
 }
