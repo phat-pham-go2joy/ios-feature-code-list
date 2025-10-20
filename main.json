@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1877",
+			"description": "Coupon improve"
+		},
+		{
 			"code": "PS-1875",
 			"description": "T08 - Coupon imp Epic [Q4/2025]"
 		},
@@ -19,10 +23,6 @@
 		{
 			"code": "PS-1832",
 			"description": "New for you"
-		},
-		{
-			"code": "PS-1820",
-			"description": "Update notification"
 		}
 	]
 }
