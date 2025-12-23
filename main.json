@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "WS-427",
+			"description": "Chat testing"
+		},
+		{
 			"code": "PS-1919",
 			"description": "Update notification"
 		},
