@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-1989",
+			"description": "Referral deeplink"
+		},
+		{
 			"code": "PS-1975",
 			"description": "Anonymous booking"
 		},
@@ -11,14 +15,6 @@
 		{
 			"code": "PS-1947",
 			"description": "Something with Collection"
-		},
-		{
-			"code": "PS-1946",
-			"description": "Category banner"
-		},
-		{
-			"code": "PS-1939",
-			"description": "Chat function"
 		}
 	]
 }
