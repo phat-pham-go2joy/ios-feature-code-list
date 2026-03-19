@@ -5,6 +5,10 @@
 			"description": "Referral deeplink"
 		},
 		{
+			"code": "PS-1981",
+			"description": "Search Ad hotels"
+		},
+		{
 			"code": "PS-1975",
 			"description": "Anonymous booking"
 		},
