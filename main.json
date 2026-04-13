@@ -9,12 +9,8 @@
 			"description": "Anonymous Booking (Updated)"
 		},
 		{
-			"code": "PS-1989",
-			"description": "Referral deeplink"
-		},
-		{
-			"code": "PS-1981",
-			"description": "Search Ad hotels"
+			"code": "PS-1996",
+			"description": "Promotion Update"
 		}
 	]
 }
