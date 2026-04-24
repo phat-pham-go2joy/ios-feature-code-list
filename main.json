@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-2021",
+			"description": "Agoda surcharge"
+		},
+		{
 			"code": "PS-2013",
 			"description": "Linked Category"
 		},
