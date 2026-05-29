@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-2054",
+			"description": "Guest booking popup"
+		},
+		{
 			"code": "PS-2027",
 			"description": "Update Banner"
 		},
