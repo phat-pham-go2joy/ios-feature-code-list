@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-2059",
+			"description": "Service fee"
+		},
+		{
 			"code": "PS-2054",
 			"description": "Guest booking popup"
 		},
@@ -11,18 +15,6 @@
 		{
 			"code": "PS-2021",
 			"description": "Agoda surcharge"
-		},
-		{
-			"code": "PS-2013",
-			"description": "Linked Category"
-		},
-		{
-			"code": "PS-2003",
-			"description": "Anonymous Booking (Updated)"
-		},
-		{
-			"code": "PS-1996",
-			"description": "Promotion Update"
 		}
 	]
 }
