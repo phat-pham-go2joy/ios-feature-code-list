@@ -1,6 +1,10 @@
 {
 	"result": [
 		{
+			"code": "PS-2063",
+			"description": "Smarter search"
+		},
+		{
 			"code": "PS-2059",
 			"description": "Service fee"
 		},
